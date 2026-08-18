@@ -6,11 +6,15 @@ Please **do not** open a public issue or a pull request for a security problem, 
 please do not contact package maintainers listed on npm directly: those are personal
 accounts and they are not monitored for security reports.
 
-Report vulnerabilities through GitHub instead:
+Use one of these channels instead.
 
-1. Open the affected repository under [diplodoc-platform](https://github.com/diplodoc-platform).
-2. Go to the **Security** tab and press **Report a vulnerability**.
-3. Fill in the form. The report stays private and is visible only to the maintainers.
+**GitHub (preferred).** Open the affected repository under
+[diplodoc-platform](https://github.com/diplodoc-platform), go to the **Security** tab
+and press **Report a vulnerability**. The report stays private and is visible only to
+the maintainers.
+
+**Email.** If you cannot use GitHub, write to
+[diplodoc-security@yandex-team.ru](mailto:diplodoc-security@yandex-team.ru).
 
 A report is most useful when it includes:
 
